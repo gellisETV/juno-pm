@@ -1,8 +1,8 @@
 # Juno PM
 
-> _(one-line pitch: what Juno does, for whom, in one sentence)_
+> Juno PM helps me streamline all product management operations allowing me to be a better PM
 
-_Your name · cohort · date_
+Gavin Ellis · 29 Sept Product School · 290926
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artifact lives in its own folder.
 
