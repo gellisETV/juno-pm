@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-https://ascii-insight-forge.lovable.app/)
+https://ascii-insight-forge.lovable.app/
 _____
 
 ## What it demonstrates
